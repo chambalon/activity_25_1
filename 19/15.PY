@@ -31,4 +31,4 @@ curr_node = reversed_head
 while curr_node:
   print(curr_node.val, end=' -> ')
   curr_node = curr_node.next
-print('none')
+print('')
